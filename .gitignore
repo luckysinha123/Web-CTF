@@ -1,0 +1,8 @@
+# Solution write-ups — keep private until the event is over
+WRITEUP.md
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
